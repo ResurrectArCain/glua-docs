@@ -1,11 +1,12 @@
 CACHE MANIFEST
-# Time: Sat Jun 07 2014 02:51:20 GMT-0400 (Eastern Daylight Time)
+# Time: Sat Jun 07 2014 03:32:56 GMT-0400 (Eastern Daylight Time)
 
 CACHE:
 index.html
 data/glua.json
 scripts/main.js
 scripts/vendor.js
+styles/main.css
 styles/fonts/Roboto-Regular-webfont.svg
 styles/fonts/fontawesome-webfont.svg
 
